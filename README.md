@@ -31,4 +31,4 @@ If you have a lot of repos, you can add `username/*` instead to have `evergreen-
 
 ## Tech stack
 
-`evergreen-travis` is 3 AWS lambda functions and an SQS queue. The code lives with [https://github.com/lennym](@lennym).
+`evergreen-travis` is 3 AWS lambda functions and an SQS queue. The code lives with [@lennym](https://github.com/lennym).
