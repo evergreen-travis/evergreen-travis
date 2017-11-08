@@ -1,5 +1,5 @@
 {
-  "versions": [4,5,6,7,8,9],
+  "versions": [4,6,8,9],
   "aliases": {
     "lts/*": 8,
     "lts/argon": 4,
